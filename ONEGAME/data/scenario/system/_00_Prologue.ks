@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/青空映える街角のアニメ背景.png"  ]
+[preload  storage="./data/bgimage/夏の陽射しと商店街の入口.png"  ]
+[preload  storage="./data/bgimage/日差しに包まれた街角エレベーター入口.png"  ]
+[preload  storage="./data/bgimage/木目調エレベーターの静かな室内.png"  ]
+[return]
