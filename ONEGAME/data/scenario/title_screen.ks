@@ -23,8 +23,8 @@
 
 *title
 
-[bg storage="陽光差し込むONEGAMEラウンジ.png"]
 [playbgm volume="60" time="2000" loop="true" storage="少年達の夏休み的なBGM.mp3" fadein="true"]
+[bg storage="陽光差し込むONEGAMEラウンジ.png"]
 [tb_image_show  time="1501"  storage="default/光沢バブル文字のONEGAMEロゴ.png"  width="331"  height="220"  x="48"  y="4"  _clickable_img=""  ]
 [glink  color="black"  text="はじめから"  x="845"  y="150"  size="20"  target="*start"  width=""  height=""  _clickable_img=""  ]
 [glink  color="black"  text="つづきから"  x="845"  y="300"  size="20"  target="*load"  width=""  height=""  _clickable_img=""  ]
